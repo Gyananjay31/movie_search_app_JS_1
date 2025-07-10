@@ -36,7 +36,7 @@ function displayData(data) {
   }
   else{
     let notice = document.createElement("h1");
-    notice.innerText = "Kya search kar rahi ho NANDU , sahi se saerch karo..." ;
+    notice.innerText = "olelee...koi baat nhi. Lets try again 😚🤗😁" ;
     notice.classList.add("notice");
     fragment.append(notice);
     results.append(fragment);
