@@ -36,7 +36,7 @@ function displayData(data) {
   }
   else{
     let notice = document.createElement("h1");
-    notice.innerText = "olelee...koi baat nhi. Lets try again 😚🤗😁" ;
+    notice.innerText = "result not found" ;
     notice.classList.add("notice");
     fragment.append(notice);
     results.append(fragment);
